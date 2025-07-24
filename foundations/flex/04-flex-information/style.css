@@ -24,3 +24,15 @@ img {
   justify-content: center;
   background: #eee;
 }
+/*answer*/
+body{
+  text-align: center;
+}
+.info{
+  max-width: 200px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  gap:50px;
+}
